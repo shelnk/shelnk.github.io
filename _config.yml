@@ -16,7 +16,7 @@
 title: Avery
 email: fengyang.avery@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    快乐就是最大的善
+    是谁来自山川湖海，却囿于昼夜、厨房与爱。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shelnk.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
